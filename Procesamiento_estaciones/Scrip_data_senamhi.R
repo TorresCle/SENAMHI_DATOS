@@ -26,3 +26,4 @@ datos <- datos %>%
   )
 
 view(datos)
+view(datos)
